@@ -40,7 +40,7 @@ body .redactor_box_fullscreen {
 	border: none;
 	width: 100%;
 }
-
+/*
 .redactor_editor,
 .redactor_editor:focus,
 .redactor_editor div,
@@ -241,7 +241,7 @@ body .redactor_box_fullscreen {
 .redactor_editor_wym ol {
 	padding-left: 2em !important;
 }
-
+*/
 
 /*
 	TOOLBAR
